@@ -1,0 +1,11 @@
+﻿  main.c
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(64,10): warning C4101: 'gainbias': unreferenced local variable
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(64,20): warning C4101: 'gfainscale': unreferenced local variable
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(110,12): warning C4101: 'isv': unreferenced local variable
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(186,20): warning C4244: 'function': conversion from 'double' to 'const float', possible loss of data
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(186,31): warning C4244: 'function': conversion from 'double' to 'const float', possible loss of data
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(214,18): warning C4244: 'function': conversion from 'double' to 'const float', possible loss of data
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(214,29): warning C4244: 'function': conversion from 'double' to 'const float', possible loss of data
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(215,34): warning C4133: 'function': incompatible types - from 'Complex_t [64]' to 'Polar_t *'
+D:\Projects-2025-26\C-ENV\BeamForming\Project1\main.c(216,13): warning C4133: 'function': incompatible types - from 'Complex_t [64]' to 'Polar_t *'
+  Project1.vcxproj -> D:\Projects-2025-26\C-ENV\BeamForming\x64\Debug\BeamForming.exe
